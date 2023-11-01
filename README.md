@@ -1,4 +1,4 @@
-<img src=  "giphy (2).gif" width=  "325px" align="right">
+<img src=  "giphy (3).gif" width=  "325px" align="right">
 
 # 😁Seja Bem-Vindo(a) ao meu Github, espero que goste🫰
 Fascinado em programação e principalmente dados, procurando oportunidades na área.
