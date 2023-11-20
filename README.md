@@ -12,6 +12,9 @@ Fascinado em programação e principalmente dados, procurando oportunidades na �
   <a href="">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://github.com/RafaelZorzo">
+  <img src="https://lp.dio.me/wp-content/uploads/2023/03/LOGO-DIO-COLOR.png&logo=dio&logoColor=white" alt="Dio Badge"/>
+  </a>
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
