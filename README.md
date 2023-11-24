@@ -1,7 +1,7 @@
 <img src=  "giphy (3).gif" width=  "325px" align="right">
 
 # 😁Seja Bem-Vindo(a) ao meu Github, espero que goste🫰
-Fascinado em programação e principalmente dados, procurando oportunidades na área.
+Fascinado em programação, procurando oportunidades na área.
 - 🎲 Estudante de Ciência de dados
 - 💻 Aprendendo lógica de programação
 <!-- 👨‍💻 Aprendendo Back End -->
