@@ -2,8 +2,8 @@
 
 # 😁Seja Bem-Vindo(a) ao meu Github, espero que goste🫰
 Fascinado em programação, procurando oportunidades na área.
-- 🎲 Estudante de Ciência de dados
-- 💻 Aprendendo lógica de programação
+- 🎲 Estudante de Tecnologia da Informação
+- 💻 Aprendendo Cybersegurança
 <!-- 👨‍💻 Aprendendo Back End -->
 <div id="badges">
   <a href = "https://www.linkedin.com/in/rafael-praxedes-zorzo-78a64a184/">
