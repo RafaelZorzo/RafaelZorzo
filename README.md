@@ -2,8 +2,8 @@
 
 # 😁Seja Bem-Vindo(a) ao meu Github, espero que goste🫰
 Fascinado em programação, procurando oportunidades na área.
-- 🎲 Estudante de Tecnologia da Informação
-- 💻 Aprendendo Cybersegurança
+- 🎲 Estudante de Bacharelado de Tecnologia da Informação na Univesp
+- 💻 Aprendendo Java
 <!-- 👨‍💻 Aprendendo Back End -->
 <div id="badges">
   <a href = "https://www.linkedin.com/in/rafael-praxedes-zorzo-78a64a184/">
@@ -14,11 +14,13 @@ Fascinado em programação, procurando oportunidades na área.
   </a>
 </div>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQl" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="MySQl" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSC" alt="MySQl" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intelij" alt="InteliJ" width="40" height="40"/>&nbsp;
+  
 </div>
 
 ---
