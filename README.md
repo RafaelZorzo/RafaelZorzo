@@ -3,7 +3,7 @@
 # 😁Seja Bem-Vindo(a) ao meu Github, espero que goste🫰
 Fascinado em programação, procurando oportunidades na área.
 - 💻 Tecnico de Informatica - ETEC
-- 🎲 Estudante de Bacharelado de Tecnologia da Informação = Univesp
+- 🎲 Estudante Bacharelado de Tecnologia da Informação = Univesp
 - 💻 Aprendendo Java
 <!-- 👨‍💻 Aprendendo Back End -->
 <div id="badges">
